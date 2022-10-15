@@ -1,0 +1,15 @@
+.idea
+__pycache__
+
+.ipynb_checkpoints
+
+runs
+
+models/binaries
+models/checkpoints
+
+data/interpolated_imagery
+data/generated_imagery
+data/debug_imagery
+data/MNIST
+data/CelebA
